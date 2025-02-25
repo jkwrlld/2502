@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg {
+    width: 500vw;
+    /* padding: 100px; */
+    height: 500px;
+    background-color: green;
+    background-image: url("./57131.webp,"), url("./Patrick_star-4854.webp");
+    background-repeat: no-repeat;
+    background-size: 100px 100px, cover;
+    background-position: top 30% top 20% left 50%;
+}
